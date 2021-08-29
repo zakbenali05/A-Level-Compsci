@@ -37,3 +37,10 @@ The benefits, limtations and risks of image recognition:
      alongside GP. You could have software that uses image recognition to read signs and information around you. This would allow the software to pinpoint your
      location. However, a limitation of this is that it may be innacurate as there are unrelated areas that look similar.
      
+**Medicine and Healthcare**
+     - There are many benefits of image recogniton in the medicine and healthcare sector. For example, it can be used to enhance medical imagery. The software 
+     can be trained to scan for unusual/foreign cells, and compare them with a database of diseases. This helps detect sever diseases easier and quicker. It can
+     have applications in cancer treatment, as the code can be used to find cancer cells in a tissue biopsy. Another benefit of the softwae is that it can help
+     the visually impaired see objects more clearly, also allowing them to recognise different objects easily. However, a limitation of image recognition is that
+     new variants/ mutations of diseases and viruses may not get picked up by the algorithm, or may not be stored in the database. This could lead to the risk of 
+     the patiennt not knowing they have a certain disease. This could lead to an increase in severe illnesses and possibly deaths.
