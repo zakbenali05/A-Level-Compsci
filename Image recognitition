@@ -15,15 +15,25 @@ The benefits, limtations and risks of image recognition:
      - There are many benefits of fast image recognition in the world of gaming and entertainment. For example, it can be used to vastly improve the augmented 
      reality and VR experience. Image recognition helps provide gaming with realistic experiences by creating realistic gaming environments for characters. This 
      can be seen in the game "Pokemon Go", where virtual characters live in the real world. The fast image recognition can be used to track and compared real life 
-     objects to a database, so the characters have the ability to interact with real life objects in the game, massively improving the gaming experience for gamers.
-     However, there are also limitations to fast image recognition in augmented reality. AR relies on the surrounding environment, so you'd need to store a lot of 
-     objects so that when the image recognition software scans the area, the objects are recognised. For example, to allow virtual characters to interact with 
-     real life objects, you'd have to have a very large database of items. This could slow down the software, or mean that the device would have to be bigger, both 
-     uncovential things for the player to deal with.
+     objects to a database, so the characters have the ability to interact with real life objects in the game, massively improving the gaming experience for 
+     gamers. However, there are also limitations to fast image recognition in augmented reality. AR relies on the surrounding environment, so you'd need to store
+     a lot of objects so that when the image recognition software scans the area, the objects are recognised. For example, to allow virtual characters to interact 
+     with real life objects, you'd have to have a very large database of items. This could slow down the software, or mean that the device would have to be
+     bigger, both uncovential things for the player to deal with.
 
 **Education and learning**
-     - There are many benefits of fast image recognition in education and learning. For example, it can assist the educational system. Teachers have the ability to 
-     use and be equipped with high tech learning tools that use image recognition. Also, it allows people with learning disabilities to register knowledge in an 
-     easier manner. For example, image recognition can be used in text to speech software. This is very helpful for people that struggle with reading, such as
+     - There are many benefits of fast image recognition in education and learning. For example, it can assist the educational system. Teachers have the ability 
+     to use and be equipped with high tech learning tools that use image recognition. Also, it allows people with learning disabilities to register knowledge in 
+     an easier manner. For example, image recognition can be used in text to speech software. This is very helpful for people that struggle with reading, such as
      dyslexic people to read information.
+     
+**Transport and Navigation**
+     - There are many benefits of image recognition for navigation and in the transport industry. For example, image recognition is vital in the developement of 
+     self-driving cars. Image recognition software can be placed in on-board cameras to detect moving and stationary objects on road. For example, people crossing 
+     the road, bicycles, stop signs, debris etc. However, there are limitations to this software in cars. For example, scale and variation is a problem. Objects 
+     that are smaller look further away than bigger objects. This may mean that the technology isn't able to tell how far away different sized objects are. If 
+     the self driving algorithm sees a smaller object and can't decipher the distance between the car and the object, then there is a risk that the car may not 
+     stop in time, colliding with the obejct. This could lead to many unnecessary crashes. Another benefit of image recognition is a software that works
+     alongside GP. You could have software that uses image recognition to read signs and information around you. This would allow the software to pinpoint your
+     location. However, a limitation of this is that it may be innacurate as there are unrelated areas that look similar.
      
