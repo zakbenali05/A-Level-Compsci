@@ -1,1 +1,13 @@
-# A-Level-Compsci
+The benefits, limtations and risks of image recognition:
+
+**Travel and tourism**
+     - There are many benefits of fast image recognition in travel and tourism. For example, it can have application in the security side of travel. In airports,
+     having image recognition can decrease the likeliness of an attack, as devices can use image recognition as a mechanism to spot unusual behaviour. Another
+     benefit of fast image recognition is personalisation. In hotels and other companies, you can use facial recognition to match real world faces to faces 
+     stored in the database, allowing for quicker and easier services tailored to the visitors. For example, during the booking process, there could be the option
+     to add a picture of yourself. This then allows the camera to scan a visitor upon arrival, and instantly match it to the database. Once the face is matched, 
+     the receptionists can greet the visitor straight away by name, and already know their preferences, for a quicker and easier service. However, there are also 
+     some limitations and risks to the uses of image recognition in travel. For example, the technology can't yet see through opaque objects. This means that if
+     an object is obstructed or hidden in a bag, the camera wouldn't pick it up. This could lead to a risk that you wouldn't be able to tell 
+     whether a person is walking around with a weapon is concealed or not.
+
