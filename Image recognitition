@@ -11,3 +11,13 @@ The benefits, limtations and risks of image recognition:
      an object is obstructed or hidden in a bag, the camera wouldn't pick it up. This could lead to a risk that you wouldn't be able to tell 
      whether a person is walking around with a weapon is concealed or not.
 
+**Gaming and entertainment**
+     - There are many benefits of fast image recognition in the world of gaming and entertainment. For example, it can be used to vastly improve the augmented 
+     reality and VR experience. Image recognition helps provide gaming with realistic experiences by creating realistic gaming environments for characters. This 
+     can be seen in the game "Pokemon Go", where virtual characters live in the real world. The fast image recognition can be used to track and compared real life 
+     objects to a database, so the characters have the ability to interact with real life objects in the game, massively improving the gaming experience for gamers.
+     However, there are also limitations to fast image recognition in augmented reality. AR relies on the surrounding environment, so you'd need to store a lot of 
+     objects so that when the image recognition software scans the area, the objects are recognised. For example, to allow virtual characters to interact with 
+     real life objects, you'd have to have a very large database of items. This could slow down the software, or mean that the device would have to be bigger, both 
+     uncovential things for the player to deal with.
+
