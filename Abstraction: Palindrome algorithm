@@ -1,1 +1,19 @@
-
+---> How to decide wether **RACECAR** is a palindrome or not:
+     - **RACECAR** has an odd number of letters, therefore you compare each letter til there is one letter left.
+     - First, compare the first and last letters. Are they the same: *TRUE* [The letter R and R are the same]
+     - Then compare the second and second last letters. Are they the same: *TRUE* [The letter A and A are the same]
+     - Then compare the third and third last letters. Are they the same: *TRUE* [The letter C and C are the same]
+     - There is now one letter left, so the comaprisons stop.
+     
+     > **RACECAR is a palindrome, because each comparison was true.
+     
+---> How to decide wether **DEFIED** is a palindrome or not:
+     - **DEFIED** has an even number of letters, therefore you compare each letter til there is one letter left.
+     - First, compare the first and last letters. Are they same: *TRUE* [The letter D and D are the same]
+     - Then compare the second and second last letter. Are they the same: *TRUE* [The letter E and E are the same]
+     - Then compare the third and third last letter. Are they the same: *FALSE* [The letter I and E aren't the same]
+     - All the letters have now been compared.
+     
+     > **DEFIED** is not a palindrome because not all the comparisons were true.
+     
+     
