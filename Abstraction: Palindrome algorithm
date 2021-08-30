@@ -16,4 +16,14 @@
      
      > **DEFIED** is not a palindrome because not all the comparisons were true.
      
-     
+---> Algorithm to decide wether any word is a palindrome or not:
+     - Ask for and input from the user. [The input would be a word]
+     - Work out how many letters are in this word.
+          > If it has an odd number of letters, you compare each letter to the opposite side until there is one letter left.
+          > If it has an even number of letters, you compare each letter to the opposite side until there are no letters left.
+     - When you start checking the word, you'd start by comparing the first and last letter,
+     - Then you'd compare the second and second last letter, then the third and third last letter, and so on. 
+     - When comparing each letter, you'd check to see whether they are the same letter or not.
+          > If they are the same, then the outcome is TRUE.
+          > If they aren't the same, then the outcome is FALSE.
+     - For a word to be a palindrome, each comparison's outcome has to be TRUE, otherwise the word isn't a palindrome.
