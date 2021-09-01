@@ -1,0 +1,35 @@
+import random #This allows us to use the random.randint function that generates a random number each time
+
+lotteryNumbers = [] #This is the empty list where the 6 numbers will be stored
+
+#The line below tells us how many items we want stored in the list. This time we want 6 lottery numbers so 6 items are stored in the list
+for i in range (0,6):
+  number = random.randint(1,49)
+  #This checks whether any of the generated numbers are the same
+  while number in lotteryNumbers:
+    #If they are, then the line below makes sure that the number is replaced with a different one
+    number = random.randint(1,49)
+  #This line of code uses the append function to add the generated numbers to the list
+  lotteryNumbers.append(number)
+
+#This displays the lottery numbers on the screen
+print("The lottery numbers for today are....")
+print(lotteryNumbers)
+
+bonusNumber = [] #This is the empty list where the bonus ball number will be stored
+
+#The line below tells us how many items we want stored in the list. It's only one because there is one bonus ball number
+for i in range (0,1):
+  number = random.randint(1,49) 
+  #Making sure the bonusNumber isn't the same as the already generated numbers
+  while number in lotteryNumbers: 
+    #If it is, this line of code picks another number
+    number = random.randint(1,49)
+
+  #This line of code uses the append function to add the generated bonus number to the list
+  bonusNumber.append(number)
+
+#This displays the bonus number on the screen
+print("And I almost forgot the bonus number which is.....")
+print(bonusNumber)
+
