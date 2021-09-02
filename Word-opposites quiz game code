@@ -1,0 +1,40 @@
+class Question:
+     def __init__(self, prompt, answer):
+          self.prompt = prompt
+          self.answer = answer
+
+question_prompts = [
+  "summer is to winter as hard is to___?",
+  "simple is to complex as light is to___?",
+  "weak is to strong as male is to___?",
+  "sad is to happy as win is to___?",
+  "small is to big as ignore is to___?",
+  "buy is to sell as succeed is to___?",
+  "reject is to accept as prevent is to___?",
+  "sad is to happy as include is to___?",
+  "hot is to cold as happy is to ___?" ,
+  "include is to exclude as hot is to___?",  
+]
+
+questions = [
+    Question(question_prompts[0], "soft"),
+    Question(question_prompts[1], "darkness"),
+    Question(question_prompts[2], "female"),
+    Question(question_prompts[3], "lose"),
+    Question(question_prompts[4], "pay attention"),
+    Question(question_prompts[5], "fail"),
+    Question(question_prompts[6], "allow"),
+    Question(question_prompts[7], "exclude"),
+    Question(question_prompts[8], "sad"),  
+    Question(question_prompts[9], "cold"),
+]
+
+def run_quiz(questions):
+     score = 0
+     for question in questions:
+          answer = input(question.prompt)
+          if answer == question.answer:
+               score += 1
+     print("you got", score, "out of", len(questions))
+
+run_quiz(questions)
