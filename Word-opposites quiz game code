@@ -1,19 +1,21 @@
+print("Welcome to the word-opposites game \nI am going to present you with an incomplete sentence which you have to fill in with the correct antonym")
+
 class Question:
      def __init__(self, prompt, answer):
           self.prompt = prompt
           self.answer = answer
 
 question_prompts = [
-  "summer is to winter as hard is to___?",
-  "simple is to complex as light is to___?",
-  "weak is to strong as male is to___?",
-  "sad is to happy as win is to___?",
-  "small is to big as ignore is to___?",
-  "buy is to sell as succeed is to___?",
-  "reject is to accept as prevent is to___?",
-  "sad is to happy as include is to___?",
-  "hot is to cold as happy is to ___?" ,
-  "include is to exclude as hot is to___?",  
+  "Q1:summer is to winter as hard is to___?",
+  "Q2:simple is to complex as light is to___?",
+  "Q3:weak is to strong as male is to___?",
+  "Q4:sad is to happy as win is to___?",
+  "Q5:small is to big as ignore is to___?",
+  "Q6:buy is to sell as succeed is to___?",
+  "Q7:reject is to accept as prevent is to___?",
+  "Q8:sad is to happy as include is to___?",
+  "Q9:hot is to cold as happy is to ___?" ,
+  "Q10:include is to exclude as hot is to___?",  
 ]
 
 questions = [
