@@ -1,0 +1,29 @@
+import turtle
+
+zak = turtle.Turtle()
+zak.color("blue")
+zak.speed(10)
+
+for i in range(5):
+  zak.left(50)
+  zak.forward(50)
+  zak.left(60)
+  zak.forward(50)
+  zak.left(120)
+  zak.forward(50)
+  zak.left(60)
+  zak.forward(50)
+
+zak.left(20)
+
+for i in range(5):
+  zak.left(50)
+  zak.forward(50)
+  zak.left(60)
+  zak.forward(50)
+  zak.left(120)
+  zak.forward(50)
+  zak.left(60)
+  zak.forward(50)
+
+turtle.done()
